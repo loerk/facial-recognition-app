@@ -5,13 +5,13 @@ import "./Logo.css";
 
 function Logo() {
   return (
-    <div className="ma4 mt0">
-      <Tilt>
+    <div className="ma5 mt0">
+      <Tilt >
         <div
           className="Tilt br2 shadow-2"
           style={{
-            width: "150px",
-            height: "150px",
+            width: "100px",
+            height: "100px",
           }}
         >
           <div className="pa4">
